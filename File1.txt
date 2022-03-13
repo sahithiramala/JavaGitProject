@@ -1,12 +1,14 @@
 Hello World!
 
-Changes made for am commit
+Changes made for am commit...
 
-Changes made for diff
+Changes made for diff...
 
-Change for bug1 fix.
+Change for bug1 fix...
 
-Change for bug2 fix
+Change for bug2 fix...
 
-Change for bug3 3-way merging with conflict.
+Change for bug3 3-way merging with conflict...
+
+Change for WI4 by team mate for rebase with conflict
 
