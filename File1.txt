@@ -2,6 +2,8 @@ Hello World!
 
 Changes made for am commit
 
-changed made for diff
+Change made for diff
 
 Change for bug1 fix
+
+Change for bug2 fix
