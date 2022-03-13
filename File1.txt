@@ -1,4 +1,4 @@
-Hello World!
+Hello World!!!
 
 Changes made for am commit...
 
@@ -11,4 +11,6 @@ Change for bug2 fix...
 Change for bug3 3-way merging with conflict...
 
 Change for WI4 by team mate for rebase with conflict
+
+Change for CR1 to check rebase with conflict.
 
