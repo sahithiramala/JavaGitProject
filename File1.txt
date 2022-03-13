@@ -2,8 +2,10 @@ Hello World!
 
 Changes made for am commit
 
-Change made for diff
+Changes made for diff
 
 Change for bug1 fix
 
-Change for bug2 fix
+Change for bug2 fix.
+
+Change for bug3 3-way merging with conflict.
