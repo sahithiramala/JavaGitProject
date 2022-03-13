@@ -14,3 +14,4 @@ Change for WI4 by team mate for rebase with conflict
 
 Change for CR1 to check rebase with conflict.
 
+Change for CR2 to stash undone work in progress.
