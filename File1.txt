@@ -7,3 +7,5 @@ Change made for diff
 Change for bug1 fix
 
 Change for bug2 fix
+
+Change fir WI3 by 3-way merging
