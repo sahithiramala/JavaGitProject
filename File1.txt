@@ -17,3 +17,8 @@ Change7 for CR1 to check rebase with conflict.
 Change8 for CR2 to stash undone work in progress.
 
 Change9 for WI5 by team mate on remote master.
+
+Change for CR2 to stash undone work in progress.
+
+Change for bug4 on local master.
+
